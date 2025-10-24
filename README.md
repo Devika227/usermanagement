@@ -4,6 +4,11 @@ A modern web application built using **React**, **Vite**, **TypeScript**, and **
 This project provides a clean architecture and responsive design, ideal for scalable frontend development.
 
 ---
+## 🌐 Live Demo
+
+🔗 **[View the live site here](https://usermanagement-nine-rho.vercel.app/)**  
+
+---
 
 ## 🚀 Features
 
@@ -42,3 +47,4 @@ npm i
 npm run dev
 
 Then open 👉 http://localhost:8080
+
